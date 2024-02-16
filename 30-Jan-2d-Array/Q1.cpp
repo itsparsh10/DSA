@@ -38,6 +38,7 @@ int main()
     for(int i=0;i<n;i++){
         cout<<"Enter The Elements "<<i+1<<endl;
         cin>>arr[i];
+        
     } 
    swap(arr,n);
    return 0;
